@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "com.champ.lefthand.mixins",
+  "refmap": "mixins.leftymod.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinItemRenderer",
+    "MixinGameSettings",
+    "MixinGuiIngameMenu"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

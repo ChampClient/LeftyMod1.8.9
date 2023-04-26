@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "ExampleMod",
+  "description": "A Mod for the %10 of human population & my first mod!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Seth (ME!)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
